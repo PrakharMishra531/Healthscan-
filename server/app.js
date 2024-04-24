@@ -20,7 +20,7 @@ main()
 
 async function main() {
   await mongoose.connect(
-    "mongodb+srv://mannatjaiswal03:gH3ynGrAkyWHco17@cluster0.b2uavjr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    ""
   );
 }
 
